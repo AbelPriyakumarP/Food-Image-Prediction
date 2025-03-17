@@ -52,13 +52,14 @@ Streamlit App
 
 ---
 
-### Step 7: Usage
-```markdown
+###  Usage
+```
 ## Usage
 
 1. **Launch the App**: Run the command above.
 2. **Upload an Image**: Select a `.jpg`, `.jpeg`, or `.png` file of a food item.
 3. **View Results**: See the predicted food class, confidence score, and top-5 predictions.
+```
 
 ### Example
 - **Input**: Image of a pizza.
