@@ -1,8 +1,5 @@
 # Food-Image-Prediction
 
-![Food Classifier Demo](https://via.placeholder.com/800x400.png?text=Food+Classifier+Demo)  
-*Upload an image and classify it into one of 34 food categories!*
-
 ## Features
 
 - **Image Classification**: Predicts food type from an uploaded image (e.g., "pizza," "sushi").
